@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64435ae4-0fa4-452f-a67e-0ba040d10995" name="Changes" comment="Commit of project QAP1 Calculator">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/qap1SDAT/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/qap1SDAT/CalculatorTest.java" afterDir="false" />
+    <list default="true" id="64435ae4-0fa4-452f-a67e-0ba040d10995" name="Changes" comment="Commit of project QAP1 WordFinder and Complete">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/qap1SDAT/WordFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/qap1SDAT/WordFinderTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
       <recent name="com.qap1SDAT" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.WordFinderTest">
     <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="S42022QAP1SDAT" />
       <extension name="coverage">
@@ -67,8 +66,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WordFinderTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="S42022QAP1SDAT" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qap1SDAT.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qap1SDAT" />
+      <option name="MAIN_CLASS_NAME" value="com.qap1SDAT.WordFinderTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WordFinderTest" />
         <item itemvalue="JUnit.CalculatorTest" />
       </list>
     </recent_temporary>
@@ -96,7 +111,14 @@
       <option name="project" value="LOCAL" />
       <updated>1664969366036</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit of project QAP1 Calculator">
+      <created>1664978522594</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1664978522595</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +135,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Inital Commit of project QAP1" />
     <MESSAGE value="Commit of project QAP1 Calculator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit of project QAP1 Calculator" />
+    <MESSAGE value="Commit of project QAP1 WordFinder and Complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit of project QAP1 WordFinder and Complete" />
   </component>
 </project>
